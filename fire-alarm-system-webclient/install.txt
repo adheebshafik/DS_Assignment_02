@@ -1,0 +1,18 @@
+
+-----------TO RUN WEB CLIENT-----------
+
+To run fake rest api with json server
+
+*cd db
+
+*npm install
+
+*npm run json:server
+
+Now To Run Client
+
+*open new terminal 
+
+*npm install
+
+*npm start(Click Y to start server on another port)

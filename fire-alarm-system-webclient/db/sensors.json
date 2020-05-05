@@ -1,0 +1,28 @@
+{
+    "sensors":[
+        {
+            "id": "1",
+            "sensorStatus": "Active",
+            "floorNo": "8",
+            "roomNo": "15",
+            "smokeLevel": "7",
+            "co2Level": "4"
+        },
+        {
+            "id": "2",
+            "sensorStatus": "Active",
+            "floorNo": "4",
+            "roomNo": "18",
+            "smokeLevel": "3",
+            "co2Level": "5"
+        },
+        {
+            "id": "3",
+            "sensorStatus": "Deactive",
+            "floorNo": "7",
+            "roomNo": "17",
+            "smokeLevel": "2",
+            "co2Level": "1"
+        }
+    ]
+}
