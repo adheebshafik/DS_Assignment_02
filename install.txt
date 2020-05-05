@@ -1,0 +1,43 @@
+--------TO RUN RMI SERVER & CLIENT--------
+
+Open Eclipse
+
+Initially the rmi server has to running in the background.
+
+Locate & run MainRemoteServer.java inside of package com.sliit.mainServers
+
+After that, the sensors and its location should be added, to do that run FireSensor.java inside of 
+package com.sliit.sensorTypes
+On running, credentials will be asked to add sensors, the credentials can be found in SensorLoginDetails.txt in package com.sliit.monitorControllers.
+
+eg:
+username: admin
+password: admin
+
+Finally, the interface of all sensors needs to be shown, to get that run UserLoginMonitorGUI.java inside package com.sliit.monitorGUI
+login interface requires authentication, the username and password can be found in UserLoginDetails.txt inside package com.sliit.monitorControllers
+
+eg:
+username: admin
+password: admin
+
+
+-----------TO RUN WEB CLIENT-----------
+
+Open Visual code 
+
+To run fake rest api with json server
+
+*cd db
+
+*npm install
+
+*npm run json:server
+
+Now to run client
+
+*open new terminal 
+
+*npm install
+
+*npm start(Click Y to start server on another port)
