@@ -11,7 +11,7 @@ To run fake rest api with json server
 
 Now To Run Client
 
-*open new terminal 
+*open new terminal (directory: fire-alarm-system-webclient)
 
 *npm install
 
