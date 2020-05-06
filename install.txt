@@ -24,9 +24,11 @@ password: admin
 
 -----------TO RUN WEB CLIENT-----------
 
-Open Visual code 
+Open Visual Studio Code 
 
 To run fake rest api with json server
+
+*open terminal
 
 *cd db
 
