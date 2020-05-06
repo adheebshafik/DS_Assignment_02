@@ -26,7 +26,7 @@ password: admin
 
 Open Visual Studio Code 
 
-To run fake rest api with json server
+To run rest api with json server
 
 *open terminal
 
